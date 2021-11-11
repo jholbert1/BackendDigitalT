@@ -29,9 +29,13 @@ adonis migration:run
 
 ## Instalacion
 Copiar el contenido del archivo .env.example y crear uno nuevo .env
+
 agregar las variables de entorno necesarias.
+
 Para el envio de correo se utilizo el servicio de gmail smtp se puede configurar las variable en el .env
+
 URL_FRONT_APP => variable que se utiliza para la redireccion del correo para confirmar cuenta
+
 ENCRYPT_KEY => variable que se utiliza para encriptar
 
 Se utilizo Postgres como BD
