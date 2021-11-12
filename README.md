@@ -41,3 +41,5 @@ ENCRYPT_KEY => variable que se utiliza para encriptar
 Se utilizo Postgres como BD
 
 Correr Migraciones con los seed: adonis migration:run --seed
+
+Usuario para ingresar a la aplicacion: root@mail.com secret
