@@ -39,3 +39,5 @@ URL_FRONT_APP => variable que se utiliza para la redireccion del correo para con
 ENCRYPT_KEY => variable que se utiliza para encriptar
 
 Se utilizo Postgres como BD
+
+Correr Migraciones con los seed: adonis migration:run --seed
